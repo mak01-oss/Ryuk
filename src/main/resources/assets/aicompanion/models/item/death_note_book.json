@@ -1,0 +1,249 @@
+{
+ "textures": {
+  "book": "aicompanion:item/death_note_book",
+  "particle": "aicompanion:item/death_note_book"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    1,
+    7
+   ],
+   "to": [
+    13,
+    15,
+    9
+   ],
+   "faces": {
+    "south": {
+     "uv": [
+      0,
+      0,
+      10,
+      14
+     ],
+     "texture": "#book"
+    },
+    "north": {
+     "uv": [
+      10,
+      0,
+      16,
+      7
+     ],
+     "texture": "#book"
+    },
+    "west": {
+     "uv": [
+      10,
+      7,
+      12,
+      16
+     ],
+     "texture": "#book"
+    },
+    "east": {
+     "uv": [
+      12,
+      7,
+      14,
+      16
+     ],
+     "texture": "#book"
+    },
+    "up": {
+     "uv": [
+      14,
+      7,
+      16,
+      16
+     ],
+     "rotation": 90,
+     "texture": "#book"
+    },
+    "down": {
+     "uv": [
+      14,
+      7,
+      16,
+      16
+     ],
+     "rotation": 90,
+     "texture": "#book"
+    }
+   }
+  },
+  {
+   "from": [
+    10.5,
+    -1.5,
+    8.6
+   ],
+   "to": [
+    11.5,
+    1,
+    8.8
+   ],
+   "faces": {
+    "south": {
+     "uv": [
+      0,
+      14,
+      1,
+      16
+     ],
+     "texture": "#book"
+    },
+    "north": {
+     "uv": [
+      0,
+      14,
+      1,
+      16
+     ],
+     "texture": "#book"
+    },
+    "east": {
+     "uv": [
+      0,
+      14,
+      0.5,
+      16
+     ],
+     "texture": "#book"
+    },
+    "west": {
+     "uv": [
+      0,
+      14,
+      0.5,
+      16
+     ],
+     "texture": "#book"
+    }
+   }
+  }
+ ],
+ "display": {
+  "thirdperson_righthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    -90,
+    25
+   ],
+   "translation": [
+    1.13,
+    3.2,
+    1.13
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    90,
+    -25
+   ],
+   "translation": [
+    1.13,
+    3.2,
+    1.13
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "ground": {
+   "rotation": [
+    90,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  "head": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    13,
+    7
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  }
+ }
+}

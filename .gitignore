@@ -1,0 +1,29 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# not part of the source: the art and sound tooling, and GeckoLib (a dependency, see README)
+tools
+libs/*.jar
+
+# Files from Forge MDK
+forge*changelog.txt

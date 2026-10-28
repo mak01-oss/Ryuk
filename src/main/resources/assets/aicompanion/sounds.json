@@ -1,0 +1,582 @@
+{
+  "ryuk.voice": {
+    "subtitle": "subtitles.aicompanion.ryuk.voice",
+    "sounds": [
+      {
+        "name": "aicompanion:voice_placeholder",
+        "stream": true,
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "note.open": {
+    "subtitle": "subtitles.aicompanion.note.open",
+    "sounds": [
+      {
+        "name": "aicompanion:note/open_1"
+      },
+      {
+        "name": "aicompanion:note/open_2"
+      }
+    ]
+  },
+  "note.page": {
+    "subtitle": "subtitles.aicompanion.note.page",
+    "sounds": [
+      {
+        "name": "aicompanion:note/page_1"
+      },
+      {
+        "name": "aicompanion:note/page_2"
+      },
+      {
+        "name": "aicompanion:note/page_3"
+      },
+      {
+        "name": "aicompanion:note/page_4"
+      }
+    ]
+  },
+  "note.fall": {
+    "subtitle": "subtitles.aicompanion.note.fall",
+    "sounds": [
+      {
+        "name": "aicompanion:note/fall",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "heart.beat": {
+    "subtitle": "subtitles.aicompanion.heart.beat",
+    "sounds": [
+      {
+        "name": "aicompanion:heart/beat_1",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "aicompanion:heart/beat_2",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "aicompanion:heart/beat_3",
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "ryuk.poof": {
+    "subtitle": "subtitles.aicompanion.ryuk.poof",
+    "sounds": [
+      {
+        "name": "aicompanion:ryuk/poof_1",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "aicompanion:ryuk/poof_2",
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "sidoh.wing": {
+    "subtitle": "subtitles.aicompanion.sidoh.wing",
+    "sounds": [
+      {
+        "name": "aicompanion:sidoh/wing_1",
+        "attenuation_distance": 14
+      },
+      {
+        "name": "aicompanion:sidoh/wing_2",
+        "attenuation_distance": 14
+      },
+      {
+        "name": "aicompanion:sidoh/wing_3",
+        "attenuation_distance": 14
+      }
+    ]
+  },
+  "sidoh.chocolate": {
+    "subtitle": "subtitles.aicompanion.sidoh.chocolate",
+    "sounds": [
+      {
+        "name": "aicompanion:sidoh/chocolate_1",
+        "attenuation_distance": 10
+      },
+      {
+        "name": "aicompanion:sidoh/chocolate_2",
+        "attenuation_distance": 10
+      }
+    ]
+  },
+  "tv.on": {
+    "subtitle": "subtitles.aicompanion.tv.on",
+    "sounds": [
+      {
+        "name": "aicompanion:tv/on",
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "tv.off": {
+    "subtitle": "subtitles.aicompanion.tv.off",
+    "sounds": [
+      {
+        "name": "aicompanion:tv/off",
+        "attenuation_distance": 10
+      }
+    ]
+  },
+  "hq.detector": {
+    "subtitle": "subtitles.aicompanion.hq.detector",
+    "sounds": [
+      {
+        "name": "aicompanion:hq/detector",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "page.gust": {
+    "subtitle": "subtitles.aicompanion.page.gust",
+    "sounds": [
+      {
+        "name": "aicompanion:page/gust_1",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "aicompanion:page/gust_2",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "aicompanion:page/gust_3",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "page.catch": {
+    "subtitle": "subtitles.aicompanion.page.catch",
+    "sounds": [
+      {
+        "name": "aicompanion:page/catch_1",
+        "attenuation_distance": 10
+      },
+      {
+        "name": "aicompanion:page/catch_2",
+        "attenuation_distance": 10
+      }
+    ]
+  },
+  "dice.shake": {
+    "subtitle": "subtitles.aicompanion.dice.shake",
+    "sounds": [
+      {
+        "name": "aicompanion:dice/shake_1"
+      },
+      {
+        "name": "aicompanion:dice/shake_2"
+      },
+      {
+        "name": "aicompanion:dice/shake_3"
+      }
+    ]
+  },
+  "dice.roll": {
+    "subtitle": "subtitles.aicompanion.dice.roll",
+    "sounds": [
+      {
+        "name": "aicompanion:dice/roll_1"
+      },
+      {
+        "name": "aicompanion:dice/roll_2"
+      },
+      {
+        "name": "aicompanion:dice/roll_3"
+      }
+    ]
+  },
+  "dice.bones": {
+    "subtitle": "subtitles.aicompanion.dice.bones",
+    "sounds": [
+      {
+        "name": "aicompanion:dice/bones_1",
+        "attenuation_distance": 16
+      },
+      {
+        "name": "aicompanion:dice/bones_2",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "realm.vision": {
+    "subtitle": "subtitles.aicompanion.realm.vision",
+    "sounds": [
+      {
+        "name": "aicompanion:realm/vision",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "realm.branch": {
+    "subtitle": "subtitles.aicompanion.realm.branch",
+    "sounds": [
+      {
+        "name": "aicompanion:realm/branch_1",
+        "attenuation_distance": 14
+      },
+      {
+        "name": "aicompanion:realm/branch_2",
+        "attenuation_distance": 14
+      }
+    ]
+  },
+  "realm.king": {
+    "subtitle": "subtitles.aicompanion.realm.king",
+    "sounds": [
+      {
+        "name": "aicompanion:realm/king",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "realm.offering": {
+    "subtitle": "subtitles.aicompanion.realm.offering",
+    "sounds": [
+      {
+        "name": "aicompanion:realm/offering_1",
+        "attenuation_distance": 16
+      },
+      {
+        "name": "aicompanion:realm/offering_2",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "ambient.realm": {
+    "subtitle": "subtitles.aicompanion.ambient.realm",
+    "sounds": [
+      {
+        "name": "aicompanion:ambient/realm",
+        "stream": true
+      }
+    ]
+  },
+  "ambient.realm_add": {
+    "subtitle": "subtitles.aicompanion.ambient.realm_add",
+    "sounds": [
+      {
+        "name": "aicompanion:ambient/realm_add_1"
+      },
+      {
+        "name": "aicompanion:ambient/realm_add_2"
+      },
+      {
+        "name": "aicompanion:ambient/realm_add_3"
+      },
+      {
+        "name": "aicompanion:ambient/realm_add_4"
+      },
+      {
+        "name": "aicompanion:ambient/realm_add_5"
+      }
+    ]
+  },
+  "ambient.realm_mood": {
+    "subtitle": "subtitles.aicompanion.ambient.realm_mood",
+    "sounds": [
+      {
+        "name": "aicompanion:ambient/realm_mood",
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "sting.chapter": {
+    "subtitle": "subtitles.aicompanion.sting.chapter",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/chapter"
+      }
+    ]
+  },
+  "sting.quest": {
+    "subtitle": "subtitles.aicompanion.sting.quest",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/quest"
+      }
+    ]
+  },
+  "sting.quest_done": {
+    "subtitle": "subtitles.aicompanion.sting.quest_done",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/quest_done"
+      }
+    ]
+  },
+  "sting.news": {
+    "subtitle": "subtitles.aicompanion.sting.news",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/news"
+      }
+    ]
+  },
+  "sting.breaking": {
+    "subtitle": "subtitles.aicompanion.sting.breaking",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/breaking"
+      }
+    ]
+  },
+  "sting.special": {
+    "subtitle": "subtitles.aicompanion.sting.special",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/special"
+      }
+    ]
+  },
+  "sting.l": {
+    "subtitle": "subtitles.aicompanion.sting.l",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/l"
+      }
+    ]
+  },
+  "sting.verdict": {
+    "subtitle": "subtitles.aicompanion.sting.verdict",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/verdict"
+      }
+    ]
+  },
+  "sting.eyes": {
+    "subtitle": "subtitles.aicompanion.sting.eyes",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/eyes"
+      }
+    ]
+  },
+  "sting.pact": {
+    "subtitle": "subtitles.aicompanion.sting.pact",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/pact"
+      }
+    ]
+  },
+  "sting.pact_sealed": {
+    "subtitle": "subtitles.aicompanion.sting.pact_sealed",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/pact_sealed"
+      }
+    ]
+  },
+  "sting.suspicion": {
+    "subtitle": "subtitles.aicompanion.sting.suspicion",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/suspicion"
+      }
+    ]
+  },
+  "sting.arrest": {
+    "subtitle": "subtitles.aicompanion.sting.arrest",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/arrest"
+      }
+    ]
+  },
+  "sting.kira": {
+    "subtitle": "subtitles.aicompanion.sting.kira",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/kira"
+      }
+    ]
+  },
+  "sting.realm_in": {
+    "subtitle": "subtitles.aicompanion.sting.realm_in",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/realm_in"
+      }
+    ]
+  },
+  "sting.realm_out": {
+    "subtitle": "subtitles.aicompanion.sting.realm_out",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/realm_out"
+      }
+    ]
+  },
+  "sting.tribute": {
+    "subtitle": "subtitles.aicompanion.sting.tribute",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/tribute"
+      }
+    ]
+  },
+  "sting.sight": {
+    "subtitle": "subtitles.aicompanion.sting.sight",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/sight"
+      }
+    ]
+  },
+  "sting.dice_win": {
+    "subtitle": "subtitles.aicompanion.sting.dice_win",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/dice_win"
+      }
+    ]
+  },
+  "sting.dice_lose": {
+    "subtitle": "subtitles.aicompanion.sting.dice_lose",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/dice_lose"
+      }
+    ]
+  },
+  "sting.l_dead": {
+    "subtitle": "subtitles.aicompanion.sting.l_dead",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/l_dead"
+      }
+    ]
+  },
+  "sting.stare": {
+    "subtitle": "subtitles.aicompanion.sting.stare",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/stare"
+      }
+    ]
+  },
+  "music.realm": {
+    "subtitle": "subtitles.aicompanion.music.realm",
+    "sounds": [
+      {
+        "name": "aicompanion:music/realm",
+        "stream": true
+      }
+    ]
+  },
+  "music.special": {
+    "subtitle": "subtitles.aicompanion.music.special",
+    "sounds": [
+      {
+        "name": "aicompanion:music/special",
+        "stream": true
+      }
+    ]
+  },
+  "music.l": {
+    "subtitle": "subtitles.aicompanion.music.l",
+    "sounds": [
+      {
+        "name": "aicompanion:music/l",
+        "stream": true
+      }
+    ]
+  },
+  "music.mafia": {
+    "subtitle": "subtitles.aicompanion.music.mafia",
+    "sounds": [
+      {
+        "name": "aicompanion:music/mafia",
+        "stream": true
+      }
+    ]
+  },
+  "music.near": {
+    "subtitle": "subtitles.aicompanion.music.near",
+    "sounds": [
+      {
+        "name": "aicompanion:music/near",
+        "stream": true
+      }
+    ]
+  },
+  "music.sidoh": {
+    "subtitle": "subtitles.aicompanion.music.sidoh",
+    "sounds": [
+      {
+        "name": "aicompanion:music/sidoh",
+        "stream": true
+      }
+    ]
+  },
+  "music.kira": {
+    "subtitle": "subtitles.aicompanion.music.kira",
+    "sounds": [
+      {
+        "name": "aicompanion:music/kira",
+        "stream": true
+      }
+    ]
+  },
+  "music.requiem": {
+    "subtitle": "subtitles.aicompanion.music.requiem",
+    "sounds": [
+      {
+        "name": "aicompanion:music/requiem",
+        "stream": true
+      }
+    ]
+  },
+  "music.mu": {
+    "subtitle": "subtitles.aicompanion.music.mu",
+    "sounds": [
+      {
+        "name": "aicompanion:music/mu",
+        "stream": true
+      }
+    ]
+  },
+  "dice.slam": {
+    "subtitle": "subtitles.aicompanion.dice.slam",
+    "sounds": [
+      {
+        "name": "aicompanion:dice/slam_1"
+      },
+      {
+        "name": "aicompanion:dice/slam_2"
+      }
+    ]
+  },
+  "sting.god": {
+    "subtitle": "subtitles.aicompanion.sting.god",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/god"
+      }
+    ]
+  },
+  "sting.person": {
+    "subtitle": "subtitles.aicompanion.sting.person",
+    "sounds": [
+      {
+        "name": "aicompanion:sting/person"
+      }
+    ]
+  },
+  "music.ryuk": {
+    "subtitle": "subtitles.aicompanion.music.ryuk",
+    "sounds": [
+      {
+        "name": "aicompanion:music/ryuk",
+        "stream": true
+      }
+    ]
+  }
+}

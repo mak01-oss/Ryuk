@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "minecraft:clock"
+  },
+  {
+   "item": "aicompanion:death_note_page"
+  },
+  {
+   "item": "minecraft:gold_ingot"
+  }
+ ],
+ "result": {
+  "item": "aicompanion:kira_watch"
+ }
+}

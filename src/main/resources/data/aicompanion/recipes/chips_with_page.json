@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "aicompanion:potato_chips"
+  },
+  {
+   "item": "aicompanion:death_note_page"
+  }
+ ],
+ "result": {
+  "item": "aicompanion:chips_with_page"
+ }
+}

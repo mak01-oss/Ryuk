@@ -1,0 +1,12 @@
+{
+ "loader": "forge:separate_transforms",
+ "gui_light": "front",
+ "base": {
+  "parent": "aicompanion:item/death_note_book"
+ },
+ "perspectives": {
+  "gui": {
+   "parent": "aicompanion:item/death_note_icon"
+  }
+ }
+}

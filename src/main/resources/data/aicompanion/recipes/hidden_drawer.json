@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PBP",
+  "PFP"
+ ],
+ "key": {
+  "P": {
+   "tag": "minecraft:planks"
+  },
+  "B": {
+   "item": "minecraft:book"
+  },
+  "F": {
+   "item": "minecraft:flint_and_steel"
+  }
+ },
+ "result": {
+  "item": "aicompanion:hidden_drawer"
+ }
+}
